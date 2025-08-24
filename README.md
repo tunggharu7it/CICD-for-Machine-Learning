@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 # Build Docker image
 docker build -t ml-cicd:latest .
-
+```
 ## Pipeline
 
 
